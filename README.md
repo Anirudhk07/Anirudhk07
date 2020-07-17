@@ -1,6 +1,10 @@
 <img src="https://user-images.githubusercontent.com/46351318/87812385-b4eb2d00-c87d-11ea-902c-55900a12cadd.png" height="130" width="900">
 
-<h2> Hi, I'm Anirudh Kolwadkar! <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"></h2>
+<h2> Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! , I'm Anirudh Kolwadkar! <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"></h2>
+
+
+I am an Android Developer<img src = "https://user-images.githubusercontent.com/46351318/87815442-3db89780-c883-11ea-8839-8ad65a2a4c3e.png" height="30"> from India. I'm  passionate about learning new technologies , exploring new domains & writing blogs ! Beside's programming, I enjoy traveling.
+
 
 <!--
 **Anirudhk07/Anirudhk07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
