@@ -11,7 +11,26 @@
 
 I am an Android Developer<img src = "https://user-images.githubusercontent.com/46351318/87815442-3db89780-c883-11ea-8839-8ad65a2a4c3e.png" height="30"> from India. I'm  passionate about learning new technologies 🚀, exploring new domains 🙍🏽‍♂️ & writing blogs 📝! I'm currently working on building Mobile Apps using Flutter <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuAVTEn-b4Rx4BcW45xV4zH9cX7SLIt1A1u3SrSqKDkMhLzSY3Jid170hvcFQm6FtejfbJGpOuKbihYxiwAYIt2Yb4nqvH&usqp=CAU" height="20"> and working up on polishing my skills 🌱 in Competitive Programming. Beside's programming, I enjoy traveling.
 
+## ⚡ Technologies
 
+Talk to me about
+
+<img src = "https://media.tenor.com/images/cbae2dfd31aa5ec2fcb7f46b65e1550f/tenor.gif" height="25"> Desktop application development using **Flutter Web**
+
+<img src = "https://media.tenor.com/images/cbae2dfd31aa5ec2fcb7f46b65e1550f/tenor.gif" height="25"> Mobile application development using **Flutter**
+
+<img src = "https://media.tenor.com/images/cbae2dfd31aa5ec2fcb7f46b65e1550f/tenor.gif" height="25"> Creating scalable databases using **Firebase**
+
+<img src = "https://media.tenor.com/images/cbae2dfd31aa5ec2fcb7f46b65e1550f/tenor.gif" height="25"> Solving Data structure and algorithm questions in **C++ , Java or Python**
+
+<img src = "https://media.tenor.com/images/cbae2dfd31aa5ec2fcb7f46b65e1550f/tenor.gif" height="25"> Artificial Intelligence & Machine Learning  
+
+<img src = "https://media.tenor.com/images/cbae2dfd31aa5ec2fcb7f46b65e1550f/tenor.gif" height="25"> Developing Messenger Chatbots or **Azure Bot Services**
+
+<img src = "https://media.tenor.com/images/cbae2dfd31aa5ec2fcb7f46b65e1550f/tenor.gif" height="25"> Natural Language Processing **(NLP)**
+
+
+---
 <!--
 **Anirudhk07/Anirudhk07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
