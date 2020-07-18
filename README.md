@@ -32,9 +32,9 @@ Talk to me about
 
 ---
 
-## ⚡ My Digital Space
+## 🌱 My Digital Space
 
-I write blog posts on Android Development using Flutter <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuAVTEn-b4Rx4BcW45xV4zH9cX7SLIt1A1u3SrSqKDkMhLzSY3Jid170hvcFQm6FtejfbJGpOuKbihYxiwAYIt2Yb4nqvH&usqp=CAU" height="20"> & about the latest features in Dart Language <img src = "https://www.kindpng.com/picc/m/176-1766554_dart-programming-language-logo-hd-png-download.png" height="20"> .Some of the blogs got even featured by Medium Curators across reconditions , feeds & many more
+I write blog posts on Android Development using Flutter <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuAVTEn-b4Rx4BcW45xV4zH9cX7SLIt1A1u3SrSqKDkMhLzSY3Jid170hvcFQm6FtejfbJGpOuKbihYxiwAYIt2Yb4nqvH&usqp=CAU" height="20"> & about the latest features in Dart Language <img src = "https://www.kindpng.com/picc/m/176-1766554_dart-programming-language-logo-hd-png-download.png" height="20"> .Some of the blogs got even featured by Medium Curators across recommendations , feeds & many more
 
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuAVTEn-b4Rx4BcW45xV4zH9cX7SLIt1A1u3SrSqKDkMhLzSY3Jid170hvcFQm6FtejfbJGpOuKbihYxiwAYIt2Yb4nqvH&usqp=CAU" height="20"> <a href="https://medium.com/flutterdevs/provider-state-management-8ffc6dacbad7">Provider State Management</a>
 
@@ -51,6 +51,10 @@ I write blog posts on Android Development using Flutter <img src = "https://encr
 Follow me on Medium to read my blogs & recieve latest updates on Flutter & Dart 👉 
 
 <a href="https://medium.com/@anirudh_46159"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
+  
+---
+
+
 <!--
 **Anirudhk07/Anirudhk07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
