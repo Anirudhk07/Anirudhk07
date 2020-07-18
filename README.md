@@ -9,7 +9,7 @@
 <a href="anirudhkolwadkar07@gmail.com"><img height="30" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg"></a>&nbsp;&nbsp;
 </p>
 
-I am an Android Developer<img src = "https://user-images.githubusercontent.com/46351318/87815442-3db89780-c883-11ea-8839-8ad65a2a4c3e.png" height="30"> from India. I'm  passionate about learning new technologies , exploring new domains & writing blogs ! Beside's programming, I enjoy traveling.
+I am an Android Developer<img src = "https://user-images.githubusercontent.com/46351318/87815442-3db89780-c883-11ea-8839-8ad65a2a4c3e.png" height="30"> from India. I'm  passionate about learning new technologies 🚀, exploring new domains 🙍🏽‍♂️ & writing blogs 📝! I'm currently working on building Mobile Apps using Flutter <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuAVTEn-b4Rx4BcW45xV4zH9cX7SLIt1A1u3SrSqKDkMhLzSY3Jid170hvcFQm6FtejfbJGpOuKbihYxiwAYIt2Yb4nqvH&usqp=CAU" height="20"> and working up on polishing my skills 🌱 in Competitive Programming. Beside's programming, I enjoy traveling.
 
 
 <!--
