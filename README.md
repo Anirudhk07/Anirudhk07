@@ -22,7 +22,7 @@ Talk to me about
 
 <img src = "https://media.tenor.com/images/cbae2dfd31aa5ec2fcb7f46b65e1550f/tenor.gif" height="25"> Creating scalable databases using **Firebase**
 
-<img src = "https://media.tenor.com/images/cbae2dfd31aa5ec2fcb7f46b65e1550f/tenor.gif" height="25"> Solving Data structure and algorithm questions in **C++ , Java or Python**
+<img src = "https://media.tenor.com/images/cbae2dfd31aa5ec2fcb7f46b65e1550f/tenor.gif" height="25"> Solving Data structure and algorithm questions in **C++ , Java or Python** 
 
 <img src = "https://media.tenor.com/images/cbae2dfd31aa5ec2fcb7f46b65e1550f/tenor.gif" height="25"> Artificial Intelligence & Machine Learning  
 
@@ -54,7 +54,7 @@ Follow me on Medium to read my blogs & recieve latest updates on Flutter & Dart 
   
 ---
 
-
+[![Anirudh's github stats](https://github-readme-stats.vercel.app/api?username=Anirudhk07)](https://github.com/Anirudhk07/github-readme-stats)
 <!--
 **Anirudhk07/Anirudhk07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
